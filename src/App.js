@@ -6,6 +6,7 @@ function App() {
     <div>
       <h2>Let's get started!asdasd</h2>
       <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
     </div>
   );
 }
